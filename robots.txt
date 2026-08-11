@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://MylesBR.github.io/resources-pmfnk4/sitemap.xml
